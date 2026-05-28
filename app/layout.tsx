@@ -8,7 +8,7 @@ const _geistMono = Geist_Mono({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: 'Apela.Exe',
-  description: 'The most skilled developer cat on the internet',
+  description: 'Shadow L9hba Dyali',
   generator: 'Apela.Exe',
   icons: {
     icon: [
