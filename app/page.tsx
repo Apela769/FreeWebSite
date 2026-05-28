@@ -53,7 +53,7 @@ export default function ProfilePage() {
             <div className="mb-4">
                <iframe
             style={{ borderRadius: '12px' }}
-            src="https://open.spotify.com/embed/track/11PqEnzCSAacrdgg9avugg?utm_source=generator"
+            src="https://open.spotify.com/playlist/3d0fhtCuf3o7bXQx4ri5S1?si=241b73568dc042cd"
             width="100%"
             height="152"
             frameBorder="0"
@@ -76,7 +76,7 @@ export default function ProfilePage() {
               <svg
                 className="w-6 h-6"
                 viewBox="0 0 24 24"
-                fill="#ffffff"
+                fill="#5865F2"
               >
                 <path d="M19.54 2.5A17.53 17.53 0 0 0 14.04 1l-.27.55a16.78 16.78 0 0 1 4.12 1.3 14.06 14.06 0 0 0-1.42-1.35ZM9.96 1c-2 .2-3.95.7-5.5 1.5-.58.5-1 1.1-1.42 1.35A16.78 16.78 0 0 1 7.16 1.55L6.9 1A17.53 17.53 0 0 0 1.4 2.5C.7 3.7.3 5 .2 6.3c1.2 1 2.4 1.7 3.6 2.3a12.5 12.5 0 0 0 10.4 0c1.2-.6 2.4-1.3 3.6-2.3-.1-1.3-.5-2.6-1.2-3.8A17.53 17.53 0 0 0 9.96 1ZM8.5 9.5a1.5 1.5 0 1 1 0 3 1.5 1.5 0 0 1 0-3Zm7 0a1.5 1.5 0 1 1 0 3 1.5 1.5 0 0 1 0-3ZM12 18c-2.2 0-4.3-1-5.5-2.5h11C16.3 17 14.2 18 12 18Z"/>
               </svg>
