@@ -7,9 +7,9 @@ const _geist = Geist({ subsets: ["latin"] });
 const _geistMono = Geist_Mono({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: 'shadow_x | Programmer Cat Profile',
+  title: 'Apela.Exe',
   description: 'The most skilled developer cat on the internet',
-  generator: 'v0.app',
+  generator: 'Apela.Exe',
   icons: {
     icon: [
       {
