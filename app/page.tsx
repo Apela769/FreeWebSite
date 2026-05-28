@@ -15,7 +15,7 @@ export default function ProfilePage() {
       <div className="relative z-10 flex items-center justify-center min-h-screen px-4">
         <div className="w-full max-w-2xl">
           {/* Profile Card */}
-          <div className="backdrop-blur-xl bg-card/40 border border-border/30 rounded-3xl p-8 md:p-12 shadow-2xl hover:shadow-accent/10 transition-shadow duration-300">
+          <div className="backdrop-blur-xl bg-card/40 border border-border/30 rounded-3xl p-8 md:p-12 apela-2xl hover:apela-accent/10 transition-apela duration-300">
             
             {/* Profile Header */}
             <div className="flex flex-col items-center mb-8">
@@ -70,7 +70,7 @@ export default function ProfilePage() {
                 href="https://discord.gg/yDjbwHhjET"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="flex-1 group relative overflow-hidden rounded-2xl bg-gradient-to-br from-[#5865F2] to-[#4752C4] p-1 transition-all duration-300 hover:shadow-lg hover:shadow-[#5865F2]/50"
+                className="flex-1 group relative overflow-hidden rounded-2xl bg-gradient-to-br from-[#5865F2] to-[#4752C4] p-1 transition-all duration-300 hover:apela-lg hover:apela-[#5865F2]/50"
               >
                 <div className="relative flex items-center justify-center gap-3 rounded-xl bg-background px-6 py-4 transition-all duration-300 group-hover:bg-background/80">
                   <svg className="w-6 h-6" viewBox="0 0 24 24" fill="currentColor" style={{ color: '#5865F2' }}>
@@ -83,7 +83,7 @@ export default function ProfilePage() {
                 href="https://github.com"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="flex-1 group relative overflow-hidden rounded-2xl bg-gradient-to-br from-[#333] to-[#1a1a1a] p-1 transition-all duration-300 hover:shadow-lg hover:shadow-white/20"
+                className="flex-1 group relative overflow-hidden rounded-2xl bg-gradient-to-br from-[#333] to-[#1a1a1a] p-1 transition-all duration-300 hover:apela-lg hover:apela-white/20"
               >
                 <div className="relative flex items-center justify-center gap-3 rounded-xl bg-background px-6 py-4 transition-all duration-300 group-hover:bg-background/80">
                   <svg className="w-6 h-6" viewBox="0 0 24 24" fill="currentColor" style={{ color: '#fff' }}>
