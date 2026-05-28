@@ -53,7 +53,7 @@ export default function ProfilePage() {
             <div className="mb-8">
               <iframe
                 style={{ borderRadius: '8px' }}
-                src="https://open.spotify.com/embed/track/6DCZcSspjsKoFjzjrWoCdn?utm_source=generator&theme=0"
+                src="https://open.spotify.com/track/11PqEnzCSAacrdgg9avugg?si=cc66c7e1d1094b4e"
                 width="100%"
                 height="80"
                 frameBorder="0"
