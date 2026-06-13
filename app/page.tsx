@@ -39,7 +39,7 @@ export default function ProfilePage() {
                 𝐀𝐩𝐞𝐥𝐚𝐊!𝐧𝐠
               </h1>
               <p className="text-accent text-lg md:text-xl font-medium mb-2">
-                He/Him
+                𝐇𝐞/𝐇𝐢𝐦
               </p>
               <p className="text-accent text-base md:text-lg font-medium mb-4 flex items-center justify-center gap-2">
                 ✨ 𝐍𝐨 𝐌𝐨𝐧𝐞𝐲 𝐍𝐨 𝐇𝐨𝐧𝐞𝐲
