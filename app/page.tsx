@@ -25,7 +25,7 @@ export default function ProfilePage() {
                 <div className="relative w-40 h-40 md:w-48 md:h-48 rounded-full overflow-hidden border-2 border-accent/30">
                <Image
                  src="/images/a_c5cae4fbb84f0af785b41969f0fc0ff1.gif"
-                 alt="𝐀𝐩𝐞𝐥𝐚𝐊!𝐧𝐠"
+                 alt="𝐀𝐩𝐞𝐥𝐚 𝐊!𝐧𝐠"
                  width={300}
                  height={300}
                  className="object-cover rounded-full"
@@ -36,7 +36,7 @@ export default function ProfilePage() {
 
               {/* Profile Info */}
               <h1 className="text-5xl md:text-6xl font-bold text-center mb-2 tracking-tight">
-                𝐀𝐩𝐞𝐥𝐚𝐊!𝐧𝐠
+                𝐀𝐩𝐞𝐥𝐚 𝐊!𝐧𝐠
               </h1>
               <p className="text-accent text-lg md:text-xl font-medium mb-2">
                 𝐇𝐞/𝐇𝐢𝐦
@@ -102,7 +102,7 @@ export default function ProfilePage() {
 
           {/* Footer */}
           <div className="text-center mt-8 text-muted-foreground text-sm">
-            <p>𝐃𝐞𝐯 {'</>'} : 𝐀𝐩𝐞𝐥𝐚𝐊!𝐧𝐠</p>
+            <p>𝐃𝐞𝐯 {'</>'} : 𝐀𝐩𝐞𝐥𝐚 𝐊!𝐧𝐠</p>
           </div>
         </div>
       </div>
