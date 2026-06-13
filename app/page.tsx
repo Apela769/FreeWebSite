@@ -25,7 +25,7 @@ export default function ProfilePage() {
                 <div className="relative w-40 h-40 md:w-48 md:h-48 rounded-full overflow-hidden border-2 border-accent/30">
                <Image
                  src="/images/602778731390346336.jpg"
-                 alt="Apela.Exe!"
+                 alt="𝐀𝐩𝐞𝐥𝐚𝐊!𝐧𝐠"
                  width={300}
                  height={300}
                  className="object-cover rounded-full"
@@ -36,16 +36,16 @@ export default function ProfilePage() {
 
               {/* Profile Info */}
               <h1 className="text-5xl md:text-6xl font-bold text-center mb-2 tracking-tight">
-                𝗔𝗽𝗲𝗹𝗮.𝗘𝘅𝗲!
+                𝐀𝐩𝐞𝐥𝐚𝐊!𝐧𝐠
               </h1>
               <p className="text-accent text-lg md:text-xl font-medium mb-2">
                 He/Him
               </p>
               <p className="text-accent text-base md:text-lg font-medium mb-4 flex items-center justify-center gap-2">
-                ✨ No Money No Honey
+                ✨ 𝐍𝐨 𝐌𝐨𝐧𝐞𝐲 𝐍𝐨 𝐇𝐨𝐧𝐞𝐲
               </p>
               <p className="text-muted-foreground text-center max-w-md text-sm md:text-base leading-relaxed">
-                Join To My Discord <a href="https://dsc.gg/StyleX" target="_blank" rel="noopener noreferrer" className="text-accent hover:underline">Dsc.gg/StyleX</a> For Any Question Enjoy.
+                𝐉𝐨𝐢𝐧 𝐓𝐨 𝐃𝐢𝐬𝐜𝐨𝐫𝐝 <a href="https://dsc.gg/StyleX" target="_blank" rel="noopener noreferrer" className="text-accent hover:underline">𝐃𝐬𝐜.𝐠𝐠/𝐒𝐭𝐲𝐥𝐞𝐗</a> 𝐅𝐨𝐫 𝐀𝐧𝐲 𝐐𝐮𝐞𝐬𝐭𝐢𝐨𝐧 𝐄𝐧𝐣𝐨𝐲.
               </p>
             </div>
 
@@ -102,7 +102,7 @@ export default function ProfilePage() {
 
           {/* Footer */}
           <div className="text-center mt-8 text-muted-foreground text-sm">
-            <p>𝐃𝐞𝐯 {'</>'} : 𝐀𝐩𝐞𝐥𝐚.𝐄𝐱𝐞!</p>
+            <p>𝐃𝐞𝐯 {'</>'} : 𝐀𝐩𝐞𝐥𝐚𝐊!𝐧𝐠</p>
           </div>
         </div>
       </div>
