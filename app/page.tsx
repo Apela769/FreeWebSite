@@ -45,7 +45,7 @@ export default function ProfilePage() {
                 ✨ 𝐍𝐨 𝐌𝐨𝐧𝐞𝐲 𝐍𝐨 𝐇𝐨𝐧𝐞𝐲
               </p>
               <p className="text-muted-foreground text-center max-w-md text-sm md:text-base leading-relaxed">
-                𝐉𝐨𝐢𝐧 𝐓𝐨 𝐃𝐢𝐬𝐜𝐨𝐫𝐝 <a href="https://dsc.gg/StyleX" target="_blank" rel="noopener noreferrer" className="text-accent hover:underline">𝐃𝐬𝐜.𝐠𝐠/𝐒𝐭𝐲𝐥𝐞𝐗</a> 𝐅𝐨𝐫 𝐀𝐧𝐲 𝐐𝐮𝐞𝐬𝐭𝐢𝐨𝐧 𝐄𝐧𝐣𝐨𝐲.
+                𝐉𝐨𝐢𝐧 𝐓𝐨 𝐃𝐢𝐬𝐜𝐨𝐫𝐝 𝐅𝐨𝐫 𝐀𝐧𝐲 𝐐𝐮𝐞𝐬𝐭𝐢𝐨𝐧 𝐄𝐧𝐣𝐨𝐲.
               </p>
             </div>
 
