@@ -24,7 +24,7 @@ export default function ProfilePage() {
                 <div className="absolute inset-0 bg-gradient-to-br from-accent to-accent/50 rounded-full blur-xl opacity-50" />
                 <div className="relative w-40 h-40 md:w-48 md:h-48 rounded-full overflow-hidden border-2 border-accent/30">
                <Image
-                 src="/images/602778731390346336.jpg"
+                 src="/images/a_c5cae4fbb84f0af785b41969f0fc0ff1.gif"
                  alt="𝐀𝐩𝐞𝐥𝐚𝐊!𝐧𝐠"
                  width={300}
                  height={300}
