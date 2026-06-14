@@ -67,7 +67,7 @@ export default function ProfilePage() {
             {/* Social Links */}
             <div className="flex gap-4 mb-8">
               <a
-                href="https://discord.gg/yDjbwHhjET"
+                href="https://discord.gg/MakuRwbfRR"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex-1 group relative overflow-hidden rounded-2xl bg-gradient-to-br from-[#5865F2] to-[#4752C4] p-1 transition-all duration-300 hover:scale-105 hover:bg-[#5865F2]/50"
